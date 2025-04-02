@@ -2,4 +2,4 @@
 
 __version__ = "0.1.0"
 
-from .test import hello
+from concatenate_files import concatenate_files

@@ -5,7 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dfed8ac1-5ea1-47b4-bc2f-41fe7327548c" name="Changes" comment="second push, testing">
+      <change afterPath="$PROJECT_DIR$/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_core.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chatdatalab/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/chatdatalab/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chatdatalab/concatenate_files.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/chatdatalab/concatenate_files.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chatdatalab/get_random.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/chatdatalab/get_random.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chatdatalab/search.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/chatdatalab/search.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chatdatalab/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/chatdatalab/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chatdatalab/unpack_turns.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/chatdatalab/unpack_turns.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chatdatalab/visualize.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/chatdatalab/visualize.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pyproject.toml" beforeDir="false" afterPath="$PROJECT_DIR$/pyproject.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,6 +72,11 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\eirik\OneDrive\Desktop\ChatDataLab\src" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -78,7 +93,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1743171625472</updated>
-      <workItem from="1743171626510" duration="22070000" />
+      <workItem from="1743171626510" duration="22909000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <option name="closed" value="true" />
@@ -144,7 +159,23 @@
       <option name="project" value="LOCAL" />
       <updated>1743584249160</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="second push, testing">
+      <option name="closed" value="true" />
+      <created>1743584565728</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1743584565728</updated>
+    </task>
+    <task id="LOCAL-00010" summary="second push, testing">
+      <option name="closed" value="true" />
+      <created>1743584621722</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1743584621722</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
