@@ -4,16 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dfed8ac1-5ea1-47b4-bc2f-41fe7327548c" name="Changes" comment="test">
-      <change afterPath="$PROJECT_DIR$/chatdatalab/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chatdatalab/concatenate_files.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chatdatalab/get_random.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chatdatalab/search.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chatdatalab/unpack_turns.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chatdatalab/visualize.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cdl/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/chatdatalab/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/setup.py" beforeDir="false" afterPath="$PROJECT_DIR$/setup.py" afterDir="false" />
+    <list default="true" id="dfed8ac1-5ea1-47b4-bc2f-41fe7327548c" name="Changes" comment="second push, testing">
+      <change beforePath="$PROJECT_DIR$/pyproject.toml" beforeDir="false" afterPath="$PROJECT_DIR$/pyproject.toml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,7 +78,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1743171625472</updated>
-      <workItem from="1743171626510" duration="21750000" />
+      <workItem from="1743171626510" duration="22070000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <option name="closed" value="true" />
@@ -144,7 +136,15 @@
       <option name="project" value="LOCAL" />
       <updated>1743177257262</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="second push, testing">
+      <option name="closed" value="true" />
+      <created>1743584249160</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1743584249160</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -153,7 +153,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
     <MESSAGE value="test" />
-    <option name="LAST_COMMIT_MESSAGE" value="test" />
+    <MESSAGE value="second push, testing" />
+    <option name="LAST_COMMIT_MESSAGE" value="second push, testing" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/ChatDataLab$setup.coverage" NAME="setup Coverage Results" MODIFIED="1743184550072" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
