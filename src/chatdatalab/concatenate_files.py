@@ -2,7 +2,7 @@ import pandas as pd
 import glob
 import os
 
-def concatenate_files(directory, file_type = 'json'):
+def concatenate(directory, file_type = 'json'):
     """
     Reads all .json files in the specified directory, and concatenates them into a single DataFrame.
 
